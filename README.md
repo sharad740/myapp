@@ -4,7 +4,7 @@ Jenkins 23
 
 #### License
 
-mit
+mit1
 12
 12
 12
